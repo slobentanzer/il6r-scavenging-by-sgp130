@@ -3,7 +3,7 @@
 # Intervention in Covid-19 Exacerbation" by Sebastian Lobentanzer (2020) 
 # Preprint available at https://osf.io/3gwmp
 
-setwd("~/Genomics/200321_covid")
+setwd("~/GitHub/il6r-scavenging-by-sgp130")
 rm(list = ls())
 
 pacman::p_load(ggplot2, reshape2)

@@ -3,7 +3,7 @@
 # Intervention in Covid-19 Exacerbation" by Sebastian Lobentanzer (2020) 
 # Preprint available at https://osf.io/3gwmp
 
-setwd("~/GitHub/il6-scavenging-by-sgp130")
+setwd("~/GitHub/il6r-scavenging-by-sgp130")
 rm(list = ls())
 
 pacman::p_load(
